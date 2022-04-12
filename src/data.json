@@ -1,0 +1,48 @@
+[
+      {
+       "id": 1,
+        "name": "Prachi Mote",
+        "address":"Katrj,Pune",
+        "phonenumber": "1234567890",
+        "email": "prachimote29@gmai.com"
+      },
+      {
+        "id": 2,
+        "name": "Rutuja Varale",
+        "address":"nager",
+        "phonenumber": "0527252525",
+        "email": "rutuja002@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Vrushali Kadam",
+        "address":"Satara",
+        "phonenumber": "0528252525",
+        "email": "vrushali003@gmail.com"
+        
+      },
+      {
+        "id": 4,
+        "name": "Amita Chikane",
+        "address":"Kolhapur",
+        "phonenumber": "052826478",
+        "email": "amita004@gmail.com"
+       
+      },
+      {
+        "id": 5,
+        "name": "Purva Taware",
+        "address":"Mumbai",
+        "phonenumber": "0528278435",
+        "email": "purva005@gmail.com"
+      },
+      {
+        "id": 5,
+        "name": "new contact",
+        "address":"Sangli",
+        "phonenumber": "234567",
+        "email": "test006@gmail.com"
+        
+      }
+    ]
+      
